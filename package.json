@@ -8,5 +8,9 @@
     "flickrapi": "^0.6.2",
     "moment": "^2.29.1",
     "request": "^2.88.2"
+  },
+  "devDependencies": {
+    "jest": "^27.5.1",
+    "supertest": "^6.2.2"
   }
 }

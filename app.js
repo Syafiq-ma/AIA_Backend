@@ -11,3 +11,5 @@ app.use(cors());
 
 app.use([dataRoutes,searchRoutes])
 app.listen(process.env.PORT || 5000);
+
+module.exports = app
