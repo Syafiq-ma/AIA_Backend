@@ -1,4 +1,13 @@
 {
+  "name": "aia-backend",
+  "version": "1.0.0",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node app.js"
+  },
+  "author": "",
+  "license": "ISC",
   "dependencies": {
     "body-parser": "^1.19.2",
     "cookie-parser": "^1.4.6",
@@ -12,5 +21,6 @@
   "devDependencies": {
     "jest": "^27.5.1",
     "supertest": "^6.2.2"
-  }
+  },
+  "description": ""
 }
